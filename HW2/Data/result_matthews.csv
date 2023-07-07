@@ -1,0 +1,101 @@
+product_1,product_2,matthews_corrcoef
+nut snack,tea,0.11757805898574299
+flower (seeds),honey,0.09505763245694525
+sausage,yogurt,0.09403995480774445
+honey,ketchup,0.09336481910455112
+whole milk,yogurt,0.09330182773905689
+kitchen towels,rum,0.08958840752572095
+jam,rice,0.08847007142344018
+canned fruit,potato products,0.08801975049435506
+cat food,tea,0.0878336929900863
+fish,meat spreads,0.08670334373198145
+other vegetables,sausage,0.07800862007739058
+other vegetables,whole milk,0.07798360100854981
+beef,potato products,0.0777921132810346
+rolls/buns,whole milk,0.07719635446353039
+cleaner,prosecco,0.07667431395786467
+cat food,other vegetables,0.07652470680792019
+shopping bags,whole milk,0.07628732429611342
+flower soil/fertilizer,organic products,0.07606562045035893
+whipped/sour cream,white bread,0.07602100602409234
+oil,ready soups,0.07526796815863249
+pastry,pip fruit,0.07486335322226524
+domestic eggs,meat spreads,0.07476713559977581
+cookware,photo/film,0.07453776002305185
+flower (seeds),soap,0.07338305419733034
+rum,soap,0.0730542552463815
+beverages,white bread,0.0729658168021529
+jam,prosecco,0.07266266700515563
+UHT-milk,kitchen towels,0.07252714161895754
+canned fruit,coffee,0.07237480964071795
+UHT-milk,other vegetables,0.07236270269056587
+cookware,spices,0.07158239899924161
+fruit/vegetable juice,root vegetables,0.0712499758166852
+bottled water,whole milk,0.07075859865446592
+frankfurter,margarine,0.07022203955689894
+bottled beer,whole milk,0.06957080311102039
+sausage,sugar,0.06916077127354943
+shopping bags,soda,0.06850693522949902
+honey,ready soups,0.06827429110349499
+curd cheese,dental care,0.06768981453601472
+bottled water,other vegetables,0.06753850071989967
+napkins,rice,0.06752256656042428
+sausage,soda,0.06736073980646388
+canned vegetables,rum,0.0670412652127007
+chewing gum,ready soups,0.06682405405390626
+brandy,soap,0.0659662019415972
+abrasive cleaner,frozen potato products,0.06596433672316863
+meat spreads,nut snack,0.06543476463322345
+abrasive cleaner,meat spreads,0.06543476463322345
+meat spreads,whole milk,0.06530081594815798
+other vegetables,rolls/buns,0.06516280858746694
+ham,whole milk,0.06515593537303482
+Instant food products,root vegetables,0.06511363904178509
+cereals,spices,0.06441135184179048
+newspapers,specialty bar,0.06408682547792696
+sparkling wine,waffles,0.06397170230611766
+rum,tropical fruit,0.06396686250212165
+chicken,waffles,0.0637662224420233
+onions,sliced cheese,0.0637282176693601
+hamburger meat,whole milk,0.06363969665184747
+brown bread,shopping bags,0.06363004420091607
+canned beer,frozen vegetables,0.06354555638992777
+bottled water,brown bread,0.06343104270706208
+berries,fruit/vegetable juice,0.06341109309189352
+fish,ham,0.06326157064419947
+flour,mayonnaise,0.0632548875890437
+chicken,soups,0.06321476606334865
+cooking chocolate,ready soups,0.06306120697055541
+other vegetables,yogurt,0.06301068137283496
+fruit/vegetable juice,rolls/buns,0.06298684682320776
+herbs,tea,0.06276215487461055
+butter,chicken,0.06267404039536069
+artif. sweetener,instant coffee,0.06262210260346569
+sausage,whole milk,0.06248234894681903
+canned beer,whole milk,0.06229253921557276
+hard cheese,roll products ,0.06224117763153441
+curd cheese,mustard,0.061769028009825755
+Instant food products,soups,0.061621858212419084
+curd cheese,whole milk,0.061618899978657826
+female sanitary products,sauces,0.06140883451509343
+house keeping products,prosecco,0.06140158651466157
+frankfurter,misc. beverages,0.06124782188495287
+nut snack,spices,0.06124369402885545
+UHT-milk,rice,0.06124268196743112
+canned fruit,softener,0.061118427202124
+canned beer,salty snack,0.06092245033162219
+hard cheese,light bulbs,0.06090375639620344
+canned beer,pastry,0.060874113662730024
+butter,yogurt,0.06082531958849349
+frozen fruits,tidbits,0.060547936887587486
+house keeping products,pickled vegetables,0.06017930684144706
+cooking chocolate,instant coffee,0.06016951436814928
+canned beer,ham,0.06009190979103384
+chocolate,yogurt,0.06006880673152577
+beverages,soda,0.05989152871819121
+honey,prosecco,0.05984225562374744
+canned beer,root vegetables,0.059813662454186914
+pip fruit,syrup,0.05979010063405728
+butter,chewing gum,0.059774954299388804
+chocolate,whole milk,0.059712538959497165
+butter,other vegetables,0.059470877551939506
